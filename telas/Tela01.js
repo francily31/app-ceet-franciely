@@ -7,6 +7,7 @@ import EstilosTextos from '../EstilosTextos';
 //Arrow fuction
 
 const Tela01 = ({navigation}) => {
+    
     return (
         <View>
         <Text>Tela01</Text>
