@@ -1,6 +1,6 @@
 import react from 'react';
 import { StyleSheet, Text, View, Button } from 'react-native';
-import EstilosTextos from '../EstilosTextos';
+import EstilosTextos from '../EstilosTextos';  
 
 //Arrow fuction
 
