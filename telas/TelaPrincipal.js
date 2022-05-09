@@ -1,5 +1,5 @@
 import { CurrentRenderContext } from "@react-navigation/native";
-import react from "react";
+import React  from "react";
 import { StyleSheet, Text, View, Button } from "react-native";
 import EstilosTextos from "../EstilosTextos";
 
